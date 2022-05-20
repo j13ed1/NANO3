@@ -1,4 +1,10 @@
 
+Sparkify provides music streaming to the users through their apps - the company holds songs details and the user activity data collected from the app.
+
+Fact Table: songplays: attributes referencing to the dimension tables.
+
+Dimension Tables: users, songs, artists and time table.
+
 1.Create a new IAM user in your AWS account.
 
 
